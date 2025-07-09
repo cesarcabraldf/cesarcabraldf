@@ -57,11 +57,11 @@
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/cesarcabraldf)
-[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:seuemailaqui@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/c%C3%A9sar-cabral-510744115/)
+[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:cesarcabraldantas2@gmail.com)
 
 ---
 
 <p align="center">
-💡 "A constância supera a intensidade quando o objetivo é construir um futuro sustentável."
+💡 “A tecnologia é apenas uma ferramenta; o que faz a diferença é a coragem de aprender e compartilhar.”
 </p>
